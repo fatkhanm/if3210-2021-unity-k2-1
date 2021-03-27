@@ -86,7 +86,7 @@ Mirror merupakan library yang kami gunakan untuk untuk menangani multiplayer men
 ![multiplayer](public/game_view2.PNG)
 
 ## Pembagaian Tugas
-### Arung Agamai Budi Putera 13518005
+### Arung Agamani Budi Putera 13518005
 1. Multiplayer
 2.  Animasi saat karakter bergerak melakukan aksi (contohnya jalan, tembak, dan diam) harus berbeda, namun dapat menggunakan aset apapun.
 3. Terdapat interaksi collision antara objek bergerak seperti tank dan karakter.
