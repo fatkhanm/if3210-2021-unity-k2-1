@@ -62,6 +62,8 @@ Adapun fitur tambahan yang tidak wajib kami implementasikan yaitu:
 6.  Rock03
 7.  Building01
 8.  Building02
+9.  Executor (by Arung)
+10. Locator (by Arung)
 
 ### Aset tambahan fitur
 ####  Terdapat lebih dari satu map yang dapat dipilih oleh pemain.
@@ -88,7 +90,9 @@ Mirror merupakan library yang kami gunakan untuk untuk menangani multiplayer men
 1. Multiplayer
 2.  Animasi saat karakter bergerak melakukan aksi (contohnya jalan, tembak, dan diam) harus berbeda, namun dapat menggunakan aset apapun.
 3. Terdapat interaksi collision antara objek bergerak seperti tank dan karakter.
-4.  Aset tambahan yang digunakan dibebaskan namun perlu dituliskan pada credits.
+4. Aset tambahan yang digunakan dibebaskan namun perlu dituliskan pada credits. 
+5. Menggabungkan keseluruhan komponen dan spesifikasi dari anggota lainnya.
+6. Pembuatan aset game sendiri
 ### Fatkhan Masruri 13518063
 1. Dokumentasi tugas (Readme)
 ### Cynthia Athena 13518059
