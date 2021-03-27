@@ -75,13 +75,13 @@ Mirror merupakan library yang kami gunakan untuk untuk menangani multiplayer men
 
 ## Screeshoot aplikasi
 1. Main Menu
-![mainmenu](public/menu.png)
+![mainmenu](public/menu.PNG)
 2. Pilih Client/Host
-![cilent/host](public/pilih_role.png)
+![cilent/host](public/pilih_role.PNG)
 3. View 1 Player
-![singleplayer](public/game_view1.png)
+![singleplayer](public/game_view1.PNG)
 4. View 2 Player
-![multiplayer](public/game_view2.png)
+![multiplayer](public/game_view2.PNG)
 
 ## Pembagaian Tugas
 ### Arung Agamai Budi Putera 13518005
